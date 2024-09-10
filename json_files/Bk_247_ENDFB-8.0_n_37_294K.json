@@ -1,0 +1,1 @@
+{"Proton number": 97, "Mass number": 247, "Neutron number": 150, "Element": "berkelium", "Atomic symbol": "Bk", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [1.15176e-16], "energy": [20000000.0], "uuid": "Bk_247_ENDFB-8.0_n_37_294K"}

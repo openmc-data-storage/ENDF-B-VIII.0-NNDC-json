@@ -1,0 +1,1 @@
+{"Proton number": 60, "Mass number": 150, "Neutron number": 90, "Element": "neodymium", "Atomic symbol": "Nd", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2np", "MT reaction number": 41, "Library": "ENDFB-8.0", "cross section": [2.88779e-14, 2.64095e-11], "energy": [19000000.0, 20000000.0], "uuid": "Nd_150_ENDFB-8.0_n_41_294K"}

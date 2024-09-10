@@ -1,0 +1,1 @@
+{"Proton number": 50, "Mass number": 113, "Neutron number": 63, "Element": "tin", "Atomic symbol": "Sn", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.00171986, 0.0073317], "energy": [19000000.0, 20000000.0], "uuid": "Sn_113_ENDFB-8.0_n_17_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 3, "Mass number": 7, "Neutron number": 4, "Element": "lithium", "Atomic symbol": "Li", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "n31", "MT reaction number": 81, "Library": "ENDFB-8.0", "cross section": [0.002692469, 0.004315021, 0.005974729], "energy": [19500000.0, 19730000.0, 20000000.0], "uuid": "Li_7_ENDFB-8.0_n_81_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 25, "Mass number": 54, "Neutron number": 29, "Element": "manganese", "Atomic symbol": "Mn", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3np", "MT reaction number": 42, "Library": "ENDFB-8.0", "cross section": [1.25377e-08, 1.231638e-05], "energy": [29000000.0, 29999990.0], "uuid": "Mn_54_ENDFB-8.0_n_42_294K"}

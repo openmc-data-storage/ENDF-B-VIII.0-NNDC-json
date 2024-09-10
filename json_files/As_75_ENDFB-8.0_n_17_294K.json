@@ -1,0 +1,1 @@
+{"Proton number": 33, "Mass number": 75, "Neutron number": 42, "Element": "arsenic", "Atomic symbol": "As", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.0002557471, 0.01651725], "energy": [19000000.0, 20000000.0], "uuid": "As_75_ENDFB-8.0_n_17_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 89, "Mass number": 225, "Neutron number": 136, "Element": "actinium", "Atomic symbol": "Ac", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [6.331467e-07, 2.09376e-06], "energy": [19500000.0, 20000000.0], "uuid": "Ac_225_ENDFB-8.0_n_37_294K"}

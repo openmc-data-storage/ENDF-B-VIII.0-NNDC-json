@@ -1,0 +1,1 @@
+{"Proton number": 46, "Mass number": 104, "Neutron number": 58, "Element": "palladium", "Atomic symbol": "Pd", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [0.000374211, 0.0009125639], "energy": [29000000.0, 30000000.0], "uuid": "Pd_104_ENDFB-8.0_n_37_294K"}

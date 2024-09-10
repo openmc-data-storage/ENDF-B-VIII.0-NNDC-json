@@ -1,0 +1,1 @@
+{"Proton number": 31, "Mass number": 71, "Neutron number": 40, "Element": "gallium", "Atomic symbol": "Ga", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2p", "MT reaction number": 111, "Library": "ENDFB-8.0", "cross section": [1.6319e-07], "energy": [20000000.0], "uuid": "Ga_71_ENDFB-8.0_n_111_294K"}

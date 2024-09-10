@@ -1,0 +1,1 @@
+{"Proton number": 44, "Mass number": 97, "Neutron number": 53, "Element": "ruthenium", "Atomic symbol": "Ru", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [0.000204768, 0.001518167], "energy": [29000000.0, 29999990.0], "uuid": "Ru_97_ENDFB-8.0_n_37_294K"}

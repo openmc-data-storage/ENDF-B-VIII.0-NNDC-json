@@ -1,0 +1,1 @@
+{"Proton number": 42, "Mass number": 95, "Neutron number": 53, "Element": "molybdenum", "Atomic symbol": "Mo", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.00230894, 0.0273777, 0.095764], "energy": [18000000.0, 19000000.0, 20000000.0], "uuid": "Mo_95_ENDFB-8.0_n_17_294K"}

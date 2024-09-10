@@ -1,0 +1,1 @@
+{"Proton number": 34, "Mass number": 75, "Neutron number": 41, "Element": "selenium", "Atomic symbol": "Se", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [9.1293e-07, 6.440407e-05], "energy": [29000000.0, 29999990.0], "uuid": "Se_75_ENDFB-8.0_n_37_294K"}

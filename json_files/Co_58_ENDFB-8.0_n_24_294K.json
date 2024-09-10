@@ -1,0 +1,1 @@
+{"Proton number": 27, "Mass number": 58, "Neutron number": 31, "Element": "cobalt", "Atomic symbol": "Co", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2na", "MT reaction number": 24, "Library": "ENDFB-8.0", "cross section": [1.6283e-10, 5.26445e-08], "energy": [19000000.0, 20000000.0], "uuid": "Co_58_ENDFB-8.0_n_24_294K"}

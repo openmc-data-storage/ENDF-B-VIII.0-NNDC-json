@@ -1,0 +1,1 @@
+{"Proton number": 28, "Mass number": 61, "Neutron number": 33, "Element": "nickel", "Atomic symbol": "Ni", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.0001207378], "energy": [20000000.0], "uuid": "Ni_61_ENDFB-8.0_n_17_294K"}

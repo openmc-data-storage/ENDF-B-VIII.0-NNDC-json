@@ -1,0 +1,1 @@
+{"Proton number": 24, "Mass number": 51, "Neutron number": 27, "Element": "chromium", "Atomic symbol": "Cr", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2nd", "MT reaction number": 11, "Library": "ENDFB-8.0", "cross section": [7.21995e-12, 2.01651e-08], "energy": [29000000.0, 29999990.0], "uuid": "Cr_51_ENDFB-8.0_n_11_294K"}

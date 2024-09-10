@@ -1,0 +1,1 @@
+{"Proton number": 13, "Mass number": 27, "Neutron number": 14, "Element": "aluminium", "Atomic symbol": "Al", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "npa", "MT reaction number": 45, "Library": "ENDFB-8.0", "cross section": [1.16585e-13, 4.72924e-12], "energy": [19600000.0, 20000000.0], "uuid": "Al_27_ENDFB-8.0_n_45_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 10, "Mass number": 22, "Neutron number": 12, "Element": "neon", "Atomic symbol": "Ne", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2nd", "MT reaction number": 11, "Library": "ENDFB-8.0", "cross section": [2.97938e-11, 2.696623e-07], "energy": [29000000.0, 29999990.0], "uuid": "Ne_22_ENDFB-8.0_n_11_294K"}

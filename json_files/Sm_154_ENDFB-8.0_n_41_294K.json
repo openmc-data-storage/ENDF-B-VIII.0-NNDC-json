@@ -1,0 +1,1 @@
+{"Proton number": 62, "Mass number": 154, "Neutron number": 92, "Element": "samarium", "Atomic symbol": "Sm", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2np", "MT reaction number": 41, "Library": "ENDFB-8.0", "cross section": [2.15328e-13, 1.70714e-12], "energy": [19000000.0, 20000000.0], "uuid": "Sm_154_ENDFB-8.0_n_41_294K"}

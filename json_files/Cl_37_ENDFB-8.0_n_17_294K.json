@@ -1,0 +1,1 @@
+{"Proton number": 17, "Mass number": 37, "Neutron number": 20, "Element": "chlorine", "Atomic symbol": "Cl", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [1.758791e-06, 0.0001238427], "energy": [19500000.0, 20000000.0], "uuid": "Cl_37_ENDFB-8.0_n_17_294K"}

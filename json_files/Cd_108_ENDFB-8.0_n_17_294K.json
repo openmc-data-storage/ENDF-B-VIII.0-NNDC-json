@@ -1,0 +1,1 @@
+{"Proton number": 48, "Mass number": 108, "Neutron number": 60, "Element": "cadmium", "Atomic symbol": "Cd", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.00014, 0.0269], "energy": [19000000.0, 20000000.0], "uuid": "Cd_108_ENDFB-8.0_n_17_294K"}

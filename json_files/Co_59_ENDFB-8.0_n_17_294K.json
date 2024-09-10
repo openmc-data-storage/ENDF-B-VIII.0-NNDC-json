@@ -1,0 +1,1 @@
+{"Proton number": 27, "Mass number": 59, "Neutron number": 32, "Element": "cobalt", "Atomic symbol": "Co", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [6.703469e-06, 0.0007544379], "energy": [19500000.0, 20000000.0], "uuid": "Co_59_ENDFB-8.0_n_17_294K"}

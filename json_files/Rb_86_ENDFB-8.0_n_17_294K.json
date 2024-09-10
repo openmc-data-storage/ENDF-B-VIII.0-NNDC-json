@@ -1,0 +1,1 @@
+{"Proton number": 37, "Mass number": 86, "Neutron number": 49, "Element": "rubidium", "Atomic symbol": "Rb", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.000249845], "energy": [20000000.0], "uuid": "Rb_86_ENDFB-8.0_n_17_294K"}

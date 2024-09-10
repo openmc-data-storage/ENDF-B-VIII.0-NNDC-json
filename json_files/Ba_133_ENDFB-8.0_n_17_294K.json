@@ -1,0 +1,1 @@
+{"Proton number": 56, "Mass number": 133, "Neutron number": 77, "Element": "barium", "Atomic symbol": "Ba", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.00101332, 0.0249274, 0.113206], "energy": [18000000.0, 19000000.0, 20000000.0], "uuid": "Ba_133_ENDFB-8.0_n_17_294K"}

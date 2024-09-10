@@ -1,0 +1,1 @@
+{"Proton number": 32, "Mass number": 72, "Neutron number": 40, "Element": "germanium", "Atomic symbol": "Ge", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.002177932, 0.00595055], "energy": [19000000.0, 20000000.0], "uuid": "Ge_72_ENDFB-8.0_n_17_294K"}

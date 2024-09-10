@@ -1,0 +1,1 @@
+{"Proton number": 90, "Mass number": 230, "Neutron number": 140, "Element": "thorium", "Atomic symbol": "Th", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [6.780786e-06, 1.98313e-05], "energy": [19500000.0, 20000000.0], "uuid": "Th_230_ENDFB-8.0_n_37_294K"}

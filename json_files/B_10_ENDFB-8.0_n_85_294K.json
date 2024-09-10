@@ -1,0 +1,1 @@
+{"Proton number": 5, "Mass number": 10, "Neutron number": 5, "Element": "boron", "Atomic symbol": "B", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "n35", "MT reaction number": 85, "Library": "ENDFB-8.0", "cross section": [0.001041871, 0.001671044], "energy": [19900000.0, 20000000.0], "uuid": "B_10_ENDFB-8.0_n_85_294K"}

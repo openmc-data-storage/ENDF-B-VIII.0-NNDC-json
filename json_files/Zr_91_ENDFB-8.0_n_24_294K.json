@@ -1,0 +1,1 @@
+{"Proton number": 40, "Mass number": 91, "Neutron number": 51, "Element": "zirconium", "Atomic symbol": "Zr", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2na", "MT reaction number": 24, "Library": "ENDFB-8.0", "cross section": [1.86144e-09, 4.85976e-08], "energy": [19000000.0, 20000000.0], "uuid": "Zr_91_ENDFB-8.0_n_24_294K"}

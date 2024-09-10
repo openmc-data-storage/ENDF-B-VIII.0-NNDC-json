@@ -1,0 +1,1 @@
+{"Proton number": 61, "Mass number": 143, "Neutron number": 82, "Element": "promethium", "Atomic symbol": "Pm", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [0.0002718275, 0.0004225179], "energy": [29704100.0, 29999990.0], "uuid": "Pm_143_ENDFB-8.0_n_37_294K"}

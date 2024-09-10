@@ -1,0 +1,1 @@
+{"Proton number": 36, "Mass number": 81, "Neutron number": 45, "Element": "krypton", "Atomic symbol": "Kr", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [5.51975e-05, 0.0008320252], "energy": [29000000.0, 29999990.0], "uuid": "Kr_81_ENDFB-8.0_n_37_294K"}

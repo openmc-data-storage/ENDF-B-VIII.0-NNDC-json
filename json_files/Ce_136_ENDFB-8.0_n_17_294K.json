@@ -1,0 +1,1 @@
+{"Proton number": 58, "Mass number": 136, "Neutron number": 78, "Element": "cerium", "Atomic symbol": "Ce", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [0.005280472, 0.0107177], "energy": [19000000.0, 20000000.0], "uuid": "Ce_136_ENDFB-8.0_n_17_294K"}

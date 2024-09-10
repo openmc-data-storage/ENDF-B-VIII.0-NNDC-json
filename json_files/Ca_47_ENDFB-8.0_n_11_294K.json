@@ -1,0 +1,1 @@
+{"Proton number": 20, "Mass number": 47, "Neutron number": 27, "Element": "calcium", "Atomic symbol": "Ca", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2nd", "MT reaction number": 11, "Library": "ENDFB-8.0", "cross section": [1.75203e-10, 1.130809e-07], "energy": [29000000.0, 29999990.0], "uuid": "Ca_47_ENDFB-8.0_n_11_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 98, "Mass number": 250, "Neutron number": 152, "Element": "californium", "Atomic symbol": "Cf", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "4n", "MT reaction number": 37, "Library": "ENDFB-8.0", "cross section": [1.858075e-07, 5.66826e-07], "energy": [19500000.0, 20000000.0], "uuid": "Cf_250_ENDFB-8.0_n_37_294K"}

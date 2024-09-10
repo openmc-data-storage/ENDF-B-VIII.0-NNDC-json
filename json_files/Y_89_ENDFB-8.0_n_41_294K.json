@@ -1,0 +1,1 @@
+{"Proton number": 39, "Mass number": 89, "Neutron number": 50, "Element": "yttrium", "Atomic symbol": "Y", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "2np", "MT reaction number": 41, "Library": "ENDFB-8.0", "cross section": [5.83661e-09], "energy": [20000000.0], "uuid": "Y_89_ENDFB-8.0_n_41_294K"}

@@ -1,0 +1,1 @@
+{"Proton number": 38, "Mass number": 88, "Neutron number": 50, "Element": "strontium", "Atomic symbol": "Sr", "Temperature(K)": "294", "Incident particle": "neutron", "Reaction products": "3n", "MT reaction number": 17, "Library": "ENDFB-8.0", "cross section": [4.9003e-05], "energy": [20000000.0], "uuid": "Sr_88_ENDFB-8.0_n_17_294K"}
