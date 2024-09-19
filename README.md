@@ -5,7 +5,7 @@ This repository holds a collection of nuclear data in JSON format.
 Each file within the json_files folder contains an probability for a specific reaction and nuclide. The reaction numbers are encoded using ENDF MT numbers which can be looked up using code like [this](https://github.com/openmc-dev/openmc/blob/57816e6b8cf23ed0e9b020b72752ed6aeb9501dd/openmc/data/reaction.py#L28-L70) here or found manually in a table like [this](https://www.oecd-nea.org/dbdata/data/manual-endf/endf102_MT.pdf) 
 
 
-To reporduce the dataset
+To reproduce the dataset
 
 Download the nuclear data in h5 format 
 ```
