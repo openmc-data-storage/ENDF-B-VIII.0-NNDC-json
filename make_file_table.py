@@ -159,7 +159,13 @@ for i, filename in enumerate(json_filenames):
     )
 
     modified_filenames.append(
-        {"id": i, "name": file_description, "value": 1}
+        {"id": i,
+         "element": tokens[0], # Li
+         "nucleons": tokens[1], # 6
+         "library": tokens[2], # ENDFB-8.0
+         "reaction": reaction_description, #(n,2n)
+         "MT": tokens[4], # 444
+         "temperature": tokens[5].split('.')[0]}
     )
 
 print(modified_filenames)
